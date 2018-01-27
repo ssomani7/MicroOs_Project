@@ -1,0 +1,4 @@
+display_library: sdl
+floppya: 1_44=os-image, status=inserted
+boot: a
+mouse: enabled=0
